@@ -1,0 +1,5 @@
+# requerimento.txt
+# Dependências para rodar o servidor Flask Locadora
+
+Flask==2.3.4
+requests==2.32.1
